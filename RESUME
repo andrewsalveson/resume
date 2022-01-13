@@ -1,7 +1,9 @@
 #!/usr/bin/env ruby
-require 'json';def φ(÷);≡,‼,ε=122,{},Z*B;(ε..≡).each{|¶|¶=¶.chr;‼[÷.index(¶)]=¶};‼;end;def §(⌡,‼)#//\\/ © 2022 _//.
-⌡.scan(/.{1,#{B}}/).map{|¶|‼[¶.to_i(B*Z)+1]}.join;end;⌠=nil;a=/^[ ]*([\d]{4}-?[^ ]*)[ ]*(.*)/;b=/^[ ]{20}/#022 _//.
-c=/ (using|with|for|in|on|&|\/) |,'/;d=/^[ ]*$/;e=/^[ ]{15}/;B=2;"#//\\//\\//\\//\\//\\//\\//\\//\\//\\ © 2022 _//.
+require 'json';def φ(√);≡,‼,ε=122,{},Z*B;(ε..≡).each{|¶|¶=¶.chr;‼[√.index(¶)]=¶};‼;end;def n(y,ε);y.split(ε);end#/.
+def §(≈,‼);≈.scan(/.{1,#{B}}/).map{|¶|‼[¶.to_i(B*Z)+1]}.join;end;def ÷(☻);puts(☻*(Z/B));end;def k(☻);☻.nil?;end#//.
+def ⌡(y,☻);÷(☻);‼=(Z/B);n(y,☻).each{|a|‼+=a.size;n(a,'').each{|ε|print(ε);sleep(rand/Z)};print(☻)#//\\/ © 2022 _//.
+if ‼ > Z*(B*B)then ÷(☻);‼=0;end};puts();end;⌠=nil;c=/^[ ]*([\d]{4}-?[^ ]*)[ ]*(.*)/;d=/^[ ]{20}/#//\\// © 2022 _//.
+e=/ (using|with|for|in|on|&|\/) |,'/;f=/^[ ]*$/;g=/^[ ]{15}/;B=2;"#//\\//\\//\\//\\//\\//\\//\\//\\//\\ © 2022 _//.
 
 
 
@@ -10,78 +12,77 @@ c=/ (using|with|for|in|on|&|\/) |,'/;d=/^[ ]*$/;e=/^[ ]{15}/;B=2;"#//\\//\\//\\/
 
 
 
-";⌡="2l2n2p2r92979s4h2r932n9f2r2v2n9s2n2j2l2n2p2r2n2v312n9sa9922p9s7g314h2rer2r4h2r2n4l9s9f92317g4h2r922v9s4h2r4"+
-"h9f2n9s972n4l319s2n2j2n317a4h2n979s7g4l207g9s4l7a2l2l922p4h2r2vai9s2p2n312n2rer2n979s4lg32r9f9f4l9s1";÷="
+";≈="2l2n2p2r92979s4h2r932n9f2r2v2n9s2n2j2l2n2p2r2n2v312n9sa9922p9s7g314h2rer2r4h2r2n4l9s9f92317g4h2r922v9s4h2r4"+
+"h9f2n9s972n4l319s2n2j2n317a4h2n979s7g4l207g9s4l7a2l2l922p4h2r2vai9s2p2n312n2rer2n979s4lg32r9f9f4l9s1";√="
 
                                                                _
                E x p e r i e n c e                             |     E x p e r t i s e
                                                                |
                Outer Labs                                      |     Automated spatial layout
-2020-present   Software Engineer - remote setting              |     
-               Building layout automation                      |     Indie game design and development 
-                    Full-stack web development                 |         Unity (C#)
+2020-present   Software Engineer - a remote setting            |     
+               building layout automation                      |     Indie game design and development 
+                    full-stack web development                 |         Unity (C#)
                                                                |     
                WeWork                                          |     Spatial transformations
-2018-2020      Software Engineer - New York City               |
-               Design, development, and integration of         |     Server Management
-               spatial data pipeline from Autodesk             |         Debian, LEDE
-               Revit for internal business use                 |         Nginx, WAMP, LAMP, IIS, GeoServer
-                    Plugins using .NET / Revit API with IPC    |
-                    GUIs in TypeScript / React & Electron      |     Service development
-                    ETL in Go on Kubernetes                    |         Go, Node, Java/Kotlin Spring Boot
-                    Storage in Java / Spring Boot with AWS     |
-                    APIs in Go / gRPC / PostreSQL / Kubernetes |     Front-end development
-                    Observability with Jaeger / Grafana        |         Numerous JavaScript frameworks
-                    Service integration in Kotlin / gRPC       | 
-                    Geometric transformations in Kotlin / Go   |     Code/package management
-                    CI/CD using Jenkins / Powershell / C#      |         Git, Subversion
-                                                               |         NPM, NuGet, Composer
-               Perkins+Will, Inc.                              |         JFrog, Quay.io
-2017-2018      Software Engineer - New York City               |                                              
-               Full-stack web development                      |     Database management
-                    Front-end in TypeScript / Angular          |         MySQL, PostgreSQL, Neo4j, MSSQL
-                    Back-end in TypeScript / Node              |         
-2016-2017      Digital Practice Manager - New York City        |     Add-in and script development
-               Technology project management                   |         Revit (C#, Python, Dynamo)
-                    Plugins for Revit in .NET / C#             |         SketchUp (Ruby)
-                    Data wrangling in Python / MSSQL           |         Adobe Creative Suite (JavaScript)
-                    APIs in PHP & Node                         |         Office suite (VB)
-                    Design scripts in Grasshopper & Dynamo     |         
-2014-2016      Design Applications Manager - New York City     |     Deployment    
-               Architectural technologist and BIM              |         Docker(machine), Kubernetes
-               management                                      |         Heroku, Azure, AWS
-                    GIS with GeoServer, ArcGIS, GRASS GIS      |         Travis, CircleCI, Jenkins
-                    GUIs in JavaScript                         |                                              
-                    Knowledge Management                       |     
-                    Computational Design for Revit & Rhino     |     Miscellaneous hackery
-                    Content Development/Training for Revit     |         Electronics, Linux scripting
-2013-2014     Design Applications Manager - Minneapolis        |                                              
-                    Architectural work                         |     Obsolete languages
-                    Software and IT support                    |         ActionScript (RIP), PureData
-                                                               |                                              
-               Neurotinker                                     |                                              
-2014           Co-founder - Minneapolis                        |     Other skills
-               Neuron simulation hardware                      |         Graphic art
-                    ARM32 firmware and I/O protocol            |         Music composition
-                    business plan and pricing model            |         Drawing instruction
-                                                               |         Writing
-               Various Clients (available upon request)        |                                              
-2004-present   Freelance Designer - Various locations          |     E d u c a t i o n  &  H o n o r s
-               Scratching the creative itch                    |                                     
-                    Furniture Design                           |     2018 Innovation Incubator Grant 
-                    Graphic Design                             |     2014 Innovation Incubator Grant
-                                                               |     2010 Ralph Rapson Fellowship
-               Various Firms (available upon request)          |     2007 Bachelor of Science in Architecture
-2010-2013      Intern Architect - Minneapolis, St. Paul        |     2003 Alworth Memorial Scholarship
-               Architectural project work                      |     
+2018-2020      Software Engineer - NYC                         |
+               a spatial data pipeline from Revit              |     Server Management
+                    plugins using .NET / Revit API over IPC    |         Debian, LEDE
+                    GUIs in TypeScript / React & Electron      |         Nginx, WAMP, LAMP, IIS, GeoServer
+                    ETLs in Go on Kubernetes                   |     
+                    storage in Java / Spring Boot with AWS     |     Service development    
+                    APIs in Go / gRPC / PostreSQL / Kubernetes |         Go, Node, Java/Kotlin Spring Boot
+                    observability with Jaeger / Grafana        |     
+                    service integration in Kotlin / gRPC       |     Front-end development    
+                    geometric transformations in Kotlin / Go   |         Numerous JavaScript frameworks
+                    CI/CD using Jenkins / Powershell / C#      |     
+                                                               |     Code/package management    
+               Perkins+Will, Inc.                              |         Git, Subversion
+2017-2018      Software Engineer - NYC                         |         NPM, NuGet, Composer
+               full-stack web development                      |         JFrog, Quay.io
+                    front-ends in TypeScript / Angular         |     
+                    back-ends in TypeScript / Node             |     Database management    
+2016-2017      Digital Practice Manager - NYC                  |         MySQL, PostgreSQL, Neo4j, MSSQL
+               technology project management                   |     
+                    plugins for Revit in .NET / C#             |     Add-in and script development    
+                    data wrangling in Python / MSSQL           |         Revit (C#, Python, Dynamo)
+                    APIs in PHP & Node                         |         SketchUp (Ruby)
+                    design scripts in Grasshopper & Dynamo     |         Adobe Creative Suite (JavaScript)
+2014-2016      Design Applications Manager - NYC               |         Office suite (VB)
+               architectural technology and BIM management     |     
+                    GIS with GeoServer, ArcGIS, GRASS GIS      |     Deployment        
+                    GUIs in JavaScript                         |         Docker(machine), Kubernetes
+                    Knowledge Management                       |         Travis, CircleCI, Jenkins
+                    Computational Design for Revit & Rhino     |         Heroku, Azure, AWS
+                    Content Development/Training for Revit     |     
+2013-2014     Design Applications Manager - Minneapolis        |     Miscellaneous hackery
+                    architectural work                         |         Electronics, Linux scripting
+                    software and IT support                    |     
+                                                               |     Obsolete languages
+               Neurotinker                                     |         ActionScript (RIP), PureData
+2014           Co-founder - Minneapolis                        |                                              
+               neuron simulation hardware                      |     Other skills
+                    ARM32 firmware and I/O protocol            |         Graphic art
+                    a business plan and pricing model          |         Music composition
+                                                               |         Drawing instruction
+               Various Clients (available upon request)        |         Writing
+2004-present   Freelance Designer - various locations          |                                              
+               scratching the creative itch                    |     E d u c a t i o n  &  H o n o r s
+                    furniture Design                           |                                     
+                    graphic Design                             |     2018 an Innovation Incubator Grant
+                                                               |     2014 an Innovation Incubator Grant
+               Various Firms (available upon request)          |     2010 the Ralph Rapson Fellowship
+2010-2013      Intern Architect - Minneapolis, St. Paul        |     2007 my Bachelor of Science in Architecture
+               Architectural project work                      |     2003 an Alworth Memorial Scholarship
 
 
 
-";Z=B**(B*B);‼=φ(÷);♣,♠,♂,♦,☻,♥,♀,♪,♫,☺={},{},{},{},' ',⌠,⌠,⌠,⌠,'-';☼,α,ß,Γ,π,Σ,σ,µ,τ,Φ,Ω,δ,∞=§(⌡,‼).split(☺)# _//.
-÷.split("\n")[5..-B].each{|≈|f,g=≈.split("|");if a.match?(g)then ♦[g[a,1]]=[] if ♦[g[a,1]].nil?#//\\//\ © 2022 _//.
-♦[g[a,1]].append({δ=>g[a,B]});end;if d.match(f)then ♫=nil;next;end;if ♫.nil? and e.match?(f)then ♫=f.strip;♣[♫]={}#
-elsif a.match?(f)then ♥={☼=>f[a,1],µ=>"",π=>[]};j,k=f[a,B].strip.split(☻+☺+☻);♥[σ]=j;♥[Σ]=k;♣[♫]={} if ♣[♫].nil?#/.
-♣[♫][♥[☼]]=♥;elsif b.match?(f)then s=f.strip;q=s.split(c);♣[♫][♥[☼]][π]<<s;n=q[0]#//\\//\\//\\//\\//\\/ © 2022 _//.
-q[1..-1].each{|r|if not ♂[r].nil? then ♂[r][n]=♫;elsif r!='' then ♂[r]={};end};♦[♥[☼]]=[] if ♦[♥[☼]].nil?#2022 _//.
-♦[♥[☼]]<<{τ=>f.strip,Φ=>♥[σ],Ω=>♥[µ],Γ=>♫,"in"=>♥[Σ]};elsif not f.nil?;♣[♫][♥[☼]][µ]+=f.strip+☻;end}#// © 2022 _//.
-puts(JSON.pretty_generate({ß=>♣,α=>♦,∞=>♂}));#//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\/ © 2022 _//.
+";Z=B**(B*B);def j(ε,≡);ε.match?(≡);end;def l(y);y.strip;end;‼=φ(√);♣,♠,♂,♦,☻,♥,♀,♪,♫,☺={},{},{},{},' ',⌠,⌠,⌠,⌠,'-'
+☼,α,ß,Γ,π,Σ,σ,µ,τ,Φ,Ω,δ,∞=n(§(≈,‼),☺);n(√,"\n")[5..-B].each{|a|q,r=n(a,"|")#//\\//\\//\\//\\//\\//\\//\ © 2022 _//.
+if j(c,r)then ♦[r[c,1]]=[] if k(♦[r[c,1]]);♦[r[c,1]]<<{δ=>r[c,B]};end;if j(f,q)then ♫=nil;next;end#//\\ © 2022 _//.
+if k(♫) && j(g,q)then ♫=l(q);♣[♫]={};elsif j(c,q)then ♥={☼=>q[c,1],µ=>"",π=>[]};s,t=n(l(q[c,B]),☻+☺+☻);♥[σ]=s# _//.
+♥[Σ]=t;♣[♫]={} if k(♣[♫]);♣[♫][♥[☼]]=♥;elsif j(d,q)then y=l(q);w=n(y,e);♣[♫][♥[☼]][π]<<y;v=w[0]#//\\//\ © 2022 _//.
+w[1..-1].each{|x|if !k(♂[x])then ♂[x][v]=♫;elsif x!='' then ♂[x]={};end};♦[♥[☼]]=[] if k(♦[♥[☼]])#//\\/ © 2022 _//.
+♦[♥[☼]]<<{τ=>l(q),Φ=>♥[σ],Ω=>♥[µ],Γ=>♫,"in"=>♥[Σ]};elsif !k(q);♣[♫][♥[☼]][µ]+=l(q)+☻;end}#//\\//\\//\\/ © 2022 _//.
+♦.keys.sort.reverse.each{|♥|w=♦[♥];ε,≡=n(♥,☺);if !k(ε)then ⌡('',☻);if !k(≡)then ⌡("from"+☻+ε+☻+"to"+☻+≡+☻+"I",☻)#/.
+w.each{|x|⌡(☺+☻+x.entries.select{|v,y|!k(y) && y!=''}.map{|v,y| v+☻+y}.join(☻),☻);sleep(1.0/B)};⌡('',☻)#© 2022 _//.
+else ⌡("in"+☻+ε+☻+"I",☻);w.each{|x|⌡(☺+☻+x.entries.map{|v,y|v+☻+y}.join(☻),☻)};end;end};#//\\//\\//\\// © 2022 _//.
