@@ -1,9 +1,9 @@
 #!/usr/bin/env ruby
-require 'json';def φ(√);≡,‼,ε=122,{},Z*B;(ε..≡).each{|¶|¶=¶.chr;‼[√.index(¶)]=¶};‼;end;def n(y,ε);y.split(ε);end#/.
-def §(≈,‼);≈.scan(/.{1,#{B}}/).map{|¶|‼[¶.to_i(B*Z)+1]}.join;end;def ÷(☻);puts(☻*(Z/B));end;def k(☻);☻.nil?;end#//.
-def ⌡(y,☻);÷(☻);‼=(Z/B);n(y,☻).each{|a|‼+=a.size;n(a,'').each{|ε|print(ε);sleep(rand/Z)};print(☻)#//\\/ © 2022 _//.
-if ‼ > Z*(B*B)then ÷(☻);‼=0;end};puts();end;⌠=nil;c=/^[ ]*([\d]{4}-?[^ ]*)[ ]*(.*)/;d=/^[ ]{20}/#//\\// © 2022 _//.
-e=/ (using|with|for|in|on|&|\/) |,'/;f=/^[ ]*$/;g=/^[ ]{15}/;B=2;"#//\\//\\//\\//\\//\\//\\//\\//\\//\\ © 2022 _//.
+def ε(a);↕,¶,≡=122,{},Z*B;(≡..↕).each{|§|§=§.chr;¶[a.index(§)]=§};¶;end;def q(z,≡);z.split(≡);end;def ¢(√,¶)#2 _//.
+√.scan(/.{1,#{B}}/).map{|§|¶[§.to_i(B*Z)+1]}.join;end;def ≈(☻);puts(☻*(Z/B));end;def l(☻);☻.nil?;end;def ÷(z,☻)#//.
+≈(☻);¶=(Z/B);q(z,☻).each{|b|¶+=b.size;q(b,'').each{|≡|print(≡);sleep(rand/Z)};print(☻);if ¶ > Z*(B*B)then ≈(☻);¶=0#
+end};puts();end;d=/^[ ]*([\d]{4}-?[^ ]*)[ ]*(.*)/;e=/^[ ]{20}/;f=/ (using|with|for|in|on|&|\/) |,'/;g=/^[ ]*$/#_//.
+j=/^[ ]{15}/;B=2;☼,♣,♠,♂,♦,☻,☺,♥,♀,♪,♫='',{},{},{},{},' ','-';"#//\\//\\//\\//\\//\\//\\//\\//\\//\\//\ © 2022 _//.
 
 
 
@@ -12,8 +12,8 @@ e=/ (using|with|for|in|on|&|\/) |,'/;f=/^[ ]*$/;g=/^[ ]{15}/;B=2;"#//\\//\\//\\/
 
 
 
-";≈="2l2n2p2r92979s4h2r932n9f2r2v2n9s2n2j2l2n2p2r2n2v312n9sa9922p9s7g314h2rer2r4h2r2n4l9s9f92317g4h2r922v9s4h2r4"+
-"h9f2n9s972n4l319s2n2j2n317a4h2n979s7g4l207g9s4l7a2l2l922p4h2r2vai9s2p2n312n2rer2n979s4lg32r9f9f4l9s1";√="
+";√="2l2n2p2r92979s4h2r932n9f2r2v2n9s2n2j2l2n2p2r2n2v312n9sa9922p9s7g314h2rer2r4h2r2n4l9s9f92317g4h2r922v9s4h2r4"+
+"h9f2n9s972n4l319s2n2j2n317a4h2n979s7g4l207g9s4l7a2l2l922p4h2r2vai9s2p2n312n2rer2n979s4lg32r9f9f4l9s1";a="
 
                                                                _
                E x p e r i e n c e                             |     E x p e r t i s e
@@ -76,13 +76,12 @@ e=/ (using|with|for|in|on|&|\/) |,'/;f=/^[ ]*$/;g=/^[ ]{15}/;B=2;"#//\\//\\//\\/
 
 
 
-";Z=B**(B*B);def j(ε,≡);ε.match?(≡);end;def l(y);y.strip;end;‼=φ(√);♣,♠,♂,♦,☻,♥,♀,♪,♫,☺={},{},{},{},' ',⌠,⌠,⌠,⌠,'-'
-☼,α,ß,Γ,π,Σ,σ,µ,τ,Φ,Ω,δ,∞=n(§(≈,‼),☺);n(√,"\n")[5..-B].each{|a|q,r=n(a,"|")#//\\//\\//\\//\\//\\//\\//\ © 2022 _//.
-if j(c,r)then ♦[r[c,1]]=[] if k(♦[r[c,1]]);♦[r[c,1]]<<{δ=>r[c,B]};end;if j(f,q)then ♫=nil;next;end#//\\ © 2022 _//.
-if k(♫) && j(g,q)then ♫=l(q);♣[♫]={};elsif j(c,q)then ♥={☼=>q[c,1],µ=>"",π=>[]};s,t=n(l(q[c,B]),☻+☺+☻);♥[σ]=s# _//.
-♥[Σ]=t;♣[♫]={} if k(♣[♫]);♣[♫][♥[☼]]=♥;elsif j(d,q)then y=l(q);w=n(y,e);♣[♫][♥[☼]][π]<<y;v=w[0]#//\\//\ © 2022 _//.
-w[1..-1].each{|x|if !k(♂[x])then ♂[x][v]=♫;elsif x!='' then ♂[x]={};end};♦[♥[☼]]=[] if k(♦[♥[☼]])#//\\/ © 2022 _//.
-♦[♥[☼]]<<{τ=>l(q),Φ=>♥[σ],Ω=>♥[µ],Γ=>♫,"in"=>♥[Σ]};elsif !k(q);♣[♫][♥[☼]][µ]+=l(q)+☻;end}#//\\//\\//\\/ © 2022 _//.
-♦.keys.sort.reverse.each{|♥|w=♦[♥];ε,≡=n(♥,☺);if !k(ε)then ⌡('',☻);if !k(≡)then ⌡("from"+☻+ε+☻+"to"+☻+≡+☻+"I",☻)#/.
-w.each{|x|⌡(☺+☻+x.entries.select{|v,y|!k(y) && y!=''}.map{|v,y| v+☻+y}.join(☻),☻);sleep(1.0/B)};⌡('',☻)#© 2022 _//.
-else ⌡("in"+☻+ε+☻+"I",☻);w.each{|x|⌡(☺+☻+x.entries.map{|v,y|v+☻+y}.join(☻),☻)};end;end};#//\\//\\//\\// © 2022 _//.
+";Z=B**(B*B);def k(≡,↕);≡.match?(↕);end;def n(z);z.strip;end;¶=ε(a);α,ß,Γ,π,Σ,σ,µ,τ,Φ,Ω,δ,∞,φ=q(¢(√,¶),☺)#2022 _//.
+q(a,"\n")[5..-B].each{|b|r,s=q(b,"|");if k(d,s)then ♦[s[d,1]]=[] if l(♦[s[d,1]]);♦[s[d,1]]<<{∞=>s[d,B]};end#22 _//.
+if k(g,r)then ♫=nil;next;end;if l(♫) && k(j,r)then ♫=n(r);♣[♫]={};elsif k(d,r)then ♥={α=>r[d,1],τ=>☼,Σ=>[]}#22 _//.
+t,u=q(n(r[d,B]),☻+☺+☻);♥[µ]=t;♥[σ]=u;♣[♫]={} if l(♣[♫]);♣[♫][♥[α]]=♥;elsif k(e,r)then z=n(r);x=q(z,f)#/ © 2022 _//.
+♣[♫][♥[α]][Σ]<<z;w=x[0];x[1..-1].each{|y|if !l(♂[y])then ♂[y][w]=♫;elsif y!=☼ then ♂[y]={};end}#//\\//\ © 2022 _//.
+♦[♥[α]]=[] if l(♦[♥[α]]);♦[♥[α]]<<{Φ=>n(r),Ω=>♥[µ],δ=>♥[τ],π=>♫,"in"=>♥[σ]};elsif !l(r);♣[♫][♥[α]][τ]+=n(r)+☻;end}#
+♦.keys.sort.reverse.each{|♥|x=♦[♥];≡,↕=q(♥,☺);if !l(≡)then ÷(☼,☻);if !l(↕)then ÷("from"+☻+≡+☻+"to"+☻+↕+☻+"I",☻)#//.
+x.each{|y|÷(☺+☻+y.entries.select{|w,z|!l(z) && z!=☼}.map{|w,z| w+☻+z}.join(☻),☻);sleep(1.0/B)};÷(☼,☻)#/ © 2022 _//.
+else ÷("in"+☻+≡+☻+"I",☻);x.each{|y|÷(☺+☻+y.entries.map{|w,z|w+☻+z}.join(☻),☻)};end;end};#//\\//\\//\\// © 2022 _//.
