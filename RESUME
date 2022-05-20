@@ -2,7 +2,7 @@
 def ε(a);↕,¶,≡=122,{},Z*B;(≡..↕).each{|§|§=§.chr;¶[a.index(§)]=§};¶;end;def q(z,≡);z.split(≡);end;def ¢(√,¶)#2 _//.
 √.scan(/.{1,#{B}}/).map{|§|¶[§.to_i(B*Z)+1]}.join;end;def ≈(☻);puts(☻*(Z/B));end;def l(☻);☻.nil?;end;def ÷(z,☻)#//.
 ≈(☻);¶=(Z/B);q(z,☻).each{|b|¶+=b.size;q(b,'').each{|≡|print(≡);sleep(rand/Z)};print(☻);if ¶ > Z*(B*B)then ≈(☻);¶=0#
-end};puts();end;d=/^[ ]*([\d]{4}-?[^ ]*)[ ]*(.*)/;e=/^[ ]{20}/;f=/ (using|with|for|in|on|&|\/) |,'/;g=/^[ ]*$/#_//.
+end};puts();end;d=/^[ ]*([\d]{4}-?[^ ]*)[ ]*(.*)/;e=/^[ ]{15}/;f=/ (using|with|for|in|on|&|\/) |,'/;g=/^[ ]*$/#_//.
 j=/^[ ]{15}/;B=2;☼,♣,♠,♂,♦,☻,☺,♥,♀,♪,♫='',{},{},{},{},' ','-';"#//\\//\\//\\//\\//\\//\\//\\//\\//\\//\ © 2022 _//.
 
 
@@ -12,72 +12,50 @@ j=/^[ ]{15}/;B=2;☼,♣,♠,♂,♦,☻,☺,♥,♀,♪,♫='',{},{},{},{},' ',
 
 
 
-";√="2l2n2p2r92979s4h2r932n9f2r2v2n9s2n2j2l2n2p2r2n2v312n9sag922p9s7g314h2rer2r4h2r2n4l9s9f92317g4h2r922v9s4h2r4"+
-"h9f2n9s972n4l319s2n2j2n317a4h2n979s7g4l207g9s4l7a2l2l922p4h2r2vap9s2p2n312n2rer2n979s4lg32r9f9f4l9s1";a="
-
-                                                               _
+";√="2p2r2t2v7j9ga54l2v9c2r9o2v332ra52r2n2p2r2t2v2r33352ra57s7j2ta57n354l2vf42v4l2v2r4pa59o7j357n4l2v7j33a54l2v4"+
+"l9o2ra59g2r4p35a52r2n2r35994l2r9ga57n4p1v7na54p992p2p7j2t4l2v33csa52t2r352r2vf42r9ga54pk22v9o9o4pa50";a="
+                                                               _     
                E x p e r i e n c e                             |     E x p e r t i s e
-                                                               |
-               Outer Labs                                      |     Automated spatial layout
-2020-present   Senior Software Engineer - a remote setting     |     
-               building layout automation                      |     Indie game design and development 
-                    full-stack web development                 |         Unity (C#)
                                                                |     
-               WeWork                                          |     Spatial transformations
-2018-2020      Software Engineer - NYC                         |
-               a spatial data pipeline from Revit              |     Server Management
-                    plugins using .NET / Revit API over IPC    |         Debian, LEDE
-                    GUIs in TypeScript / React & Electron      |         Nginx, WAMP, LAMP, IIS, GeoServer
-                    ETLs in Go on Kubernetes                   |     
-                    storage in Java / Spring Boot with AWS     |     Service development    
-                    APIs in Go / gRPC / PostreSQL / Kubernetes |         Go, Node, Java/Kotlin Spring Boot
-                    observability with Jaeger / Grafana        |     
-                    service integration in Kotlin / gRPC       |     Front-end development    
-                    geometric transformations in Kotlin / Go   |         Numerous JavaScript frameworks
-                    CI/CD using Jenkins / Powershell / C#      |     
-                                                               |     Code/package management    
-               Perkins+Will, Inc.                              |         Git, Subversion
-2017-2018      Software Engineer - NYC                         |         NPM, NuGet, Composer
-               full-stack web development                      |         JFrog, Quay.io
-                    front-ends in TypeScript / Angular         |     
-                    back-ends in TypeScript / Node             |     Database management    
-2016-2017      Digital Practice Manager - NYC                  |         MySQL, PostgreSQL, Neo4j, MSSQL
-               technology project management                   |     
-                    plugins for Revit in .NET / C#             |     Add-in and script development    
-                    data wrangling in Python / MSSQL           |         Revit (C#, Python, Dynamo)
-                    APIs in PHP & Node                         |         SketchUp (Ruby)
-                    design scripts in Grasshopper & Dynamo     |         Adobe Creative Suite (JavaScript)
-2014-2016      Design Applications Manager - NYC               |         Office suite (VB)
-               architectural technology and BIM management     |     
-                    GIS with GeoServer, ArcGIS, GRASS GIS      |     Deployment        
-                    GUIs in JavaScript                         |         Docker(machine), Kubernetes
-                    Knowledge Management                       |         Travis, CircleCI, Jenkins
-                    Computational Design for Revit & Rhino     |         Heroku, Azure, AWS
-                    Content Development/Training for Revit     |     
-2013-2014     Design Applications Manager - Minneapolis        |     Miscellaneous hackery
-                    architectural work                         |         Electronics, Linux scripting
-                    software and IT support                    |     
+               MoonBat Software                                |     Automated spatial layout
+2022-present   Founder - Duluth                                |     
+               indie game design                               |     Indie game design and development
+                                                               |     
+               Outer Labs                                      |     Full stack development
+2020-2022      Sr. Software Engineer - Duluth (remote)         |     
+               building layout automation                      |     Add-in and script development
+                                                               |         Revit, SketchUp
+               WeWork                                          |     
+2018-2020      Software Engineer - NYC                         |     Deployment
+               spatial data management                         |         Docker(machine), Kubernetes
+                                                               |         Travis, CircleCI, Jenkins
+               Perkins+Will, Inc.                              |         Heroku, Azure, AWS
+2017-2018      Software Engineer - NYC                         |     
+               enterprise application development              |     Miscellaneous hackery
+2016-2017      Digital Practice Manager - NYC                  |         Electronics, Linux scripting
+2014-2016      Design Applications Manager - NYC               |     
+2013-2014      Design Applications Manager - Minneapolis       |     Other skills
+                                                               |         Graphic art
+               Neurotinker                                     |         Drawing instruction
+2014           Co-founder - Minneapolis                        |         Music composition
+               neuron simulation hardware                      |     
                                                                |     Obsolete languages
-               Neurotinker                                     |         ActionScript (RIP), PureData
-2014           Co-founder - Minneapolis                        |                                              
-               neuron simulation hardware                      |     Other skills
-                    ARM32 firmware and I/O protocol            |         Graphic art
-                    a business plan and pricing model          |         Music composition
-                                                               |         Drawing instruction
-               Various Clients (available upon request)        |         Writing
-2004-present   Freelance Designer - various locations          |                                              
-               scratching the creative itch                    |     E d u c a t i o n  &  H o n o r s
-                    furniture Design                           |                                     
-                    graphic Design                             |     2018 an Innovation Incubator Grant
-                                                               |     2014 an Innovation Incubator Grant
-               Various Firms (available upon request)          |     2010 the Ralph Rapson Fellowship
-2010-2013      Intern Architect - Minneapolis, St. Paul        |     2007 my Bachelor of Science in Architecture
-               Architectural project work                      |     2003 an Alworth Memorial Scholarship
-
-
+               Various Firms (available upon request)          |         ActionScript (RIP), PureData
+2010-2013      Intern Architect - Minneapolis, St. Paul        |
+               architectural project work                      |
+                                                               |
+               The University of Minnesota                     |
+2009-2011      Graduate Instructor - Minneapolis               |
+               drawing and design instruction                  |     E d u c a c t i o n  &  H o n o r s
+                                                               |     
+               Various Clients (available upon request)        |     2018 an Innovation Incubator Grant 
+2004-present   Freelance Designer - various locations          |     2014 an Innovation Incubator Grant
+               furniture design                                |     2010 the Ralph Rapson Fellowship
+               graphic design                                  |     2007 my Bachelor of Science in Architecture
+               web design                                      |     2003 an Alworth Memorial Scholarship
 
 ";Z=B**(B*B);def k(≡,↕);≡.match?(↕);end;def n(z);z.strip;end;¶=ε(a);α,ß,Γ,π,Σ,σ,µ,τ,Φ,Ω,δ,∞,φ=q(¢(√,¶),☺)#2022 _//.
-q(a,"\n")[5..-B].each{|b|r,s=q(b,"|");if k(d,s)then ♦[s[d,1]]=[] if l(♦[s[d,1]]);♦[s[d,1]]<<{∞=>s[d,B]};end#22 _//.
+q(a,"\n")[4..-1].each{|b|r,s=q(b,"|");if k(d,s)then ♦[s[d,1]]=[] if l(♦[s[d,1]]);♦[s[d,1]]<<{∞=>s[d,B]};end#22 _//.
 if k(g,r)then ♫=nil;next;end;if l(♫) && k(j,r)then ♫=n(r);♣[♫]={};elsif k(d,r)then ♥={α=>r[d,1],τ=>☼,Σ=>[]}#22 _//.
 t,u=q(n(r[d,B]),☻+☺+☻);♥[µ]=t;♥[σ]=u;♣[♫]={} if l(♣[♫]);♣[♫][♥[α]]=♥;elsif k(e,r)then z=n(r);x=q(z,f)#/ © 2022 _//.
 ♣[♫][♥[α]][Σ]<<z;w=x[0];x[1..-1].each{|y|if !l(♂[y])then ♂[y][w]=♫;elsif y!=☼ then ♂[y]={};end}#//\\//\ © 2022 _//.
