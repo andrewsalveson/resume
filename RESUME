@@ -1,4 +1,4 @@
-#!/usr/bin/env ruby
+# run me:  curl -sSl https://raw.githubusercontent.com/andrewsalveson/resume/master/RESUME | ruby
 def ε(a);↕,¶,≡=122,{},Z*B;(≡..↕).each{|§|§=§.chr;¶[a.index(§)]=§};¶;end;def q(z,≡);z.split(≡);end;def ¢(√,¶)#2 _//.
 √.scan(/.{1,#{B}}/).map{|§|¶[§.to_i(B*Z)+1]}.join;end;def ≈(☻);puts(☻*(Z/B));end;def l(☻);☻.nil?;end;def ÷(z,☻)#//.
 ≈(☻);¶=(Z/B);q(z,☻).each{|b|¶+=b.size;q(b,'').each{|≡|print(≡);sleep(rand/Z)};print(☻);if ¶ > Z*(B*B)then ≈(☻);¶=0#
@@ -51,7 +51,7 @@ j=/^[ ]{15}/;B=2;☼,♣,♠,♂,♦,☻,☺,♥,♀,♪,♫='',{},{},{},{},' ',
                Various Clients (available upon request)        |     2018 an Innovation Incubator Grant 
 2004-present   Freelance Designer - various locations          |     2014 an Innovation Incubator Grant
                furniture design                                |     2010 the Ralph Rapson Fellowship
-               graphic design                                  |     2007 my Bachelor of Science in Architecture
+               graphic design                                  |     2007 my BS in Architecture
                web design                                      |     2003 an Alworth Memorial Scholarship
 
 ";Z=B**(B*B);def k(≡,↕);≡.match?(↕);end;def n(z);z.strip;end;¶=ε(a);α,ß,Γ,π,Σ,σ,µ,τ,Φ,Ω,δ,∞,φ=q(¢(√,¶),☺)#2022 _//.
