@@ -1,7 +1,7 @@
-# run me:  curl -sSl https://raw.githubusercontent.com/andrewsalveson/resume/master/RESUME | ruby
-def ε(a);↕,¶,≡=122,{},Z*B;(≡..↕).each{|§|§=§.chr;¶[a.index(§)]=§};¶;end;def q(z,≡);z.split(≡);end;def ¢(√,¶)#2 _//.
-√.scan(/.{1,#{B}}/).map{|§|¶[§.to_i(B*Z)+1]}.join;end;def ≈(☻);puts(☻*(Z/B));end;def l(☻);☻.nil?;end;def ÷(z,☻)#//.
-≈(☻);¶=(Z/B);q(z,☻).each{|b|¶+=b.size;q(b,'').each{|≡|print(≡);sleep(rand/Z)};print(☻);if ¶ > Z*(B*B)then ≈(☻);¶=0#
+# run me in the terminal: curl -sSl https://raw.githubusercontent.com/andrewsalveson/resume/master/RESUME | ruby
+def ¶(a);¢,¥,§=122,{},Z*B;(§..¢).each{|₧|₧=₧.chr;¥[a.index(₧)]=₧};¥;end;def q(z,§);z.split(§);end;def ƒ(√,¥)#2 _//.
+√.scan(/.{1,#{B}}/).map{|₧|¥[₧.to_i(B*Z)+1]}.join;end;def ≈(☻);puts(☻*(Z/B));end;def l(☻);☻.nil?;end;def ÷(z,☻)#//.
+≈(☻);¥=(Z/B);q(z,☻).each{|b|¥+=b.size;q(b,'').each{|§|print(§);sleep(rand/Z)};print(☻);if ¥ > Z*(B*B)then ≈(☻);¥=0#
 end};puts();end;d=/^[ ]*([\d]{4}-?[^ ]*)[ ]*(.*)/;e=/^[ ]{15}/;f=/ (using|with|for|in|on|&|\/) |,'/;g=/^[ ]*$/#_//.
 j=/^[ ]{15}/;B=2;☼,♣,♠,♂,♦,☻,☺,♥,♀,♪,♫='',{},{},{},{},' ','-';"#//\\//\\//\\//\\//\\//\\//\\//\\//\\//\ © 2022 _//.
 
@@ -13,8 +13,9 @@ j=/^[ ]{15}/;B=2;☼,♣,♠,♂,♦,☻,☺,♥,♀,♪,♫='',{},{},{},{},' ',
 
 
 ";√="2p2r2t2v7j9ga54l2v9c2r9o2v332ra52r2n2p2r2t2v2r33352ra57s7j2ta57n354l2vf42v4l2v2r4pa59o7j357n4l2v7j33a54l2v4"+
-"l9o2ra59g2r4p35a52r2n2r35994l2r9ga57n4p1v7na54p992p2p7j2t4l2v33csa52t2r352r2vf42r9ga54pk22v9o9o4pa50";a="
-                                                               _     
+"l9o2ra59g2r4p35a52r2n2r35994l2r9ga57n4p007na54p992p2p7j2t4l2v33csa52t2r352r2vf42r9ga54pk22v9o9o4pa54lav7n33"+
+"k2009s7j99007s7j2t009s7j992t004l2v9c2ra54p2r2r9c4p009o2vk22r009s7j9900cs2r4l004lav2r002v9g2r7na52v33a5ec";a="
+                                                                     
                E x p e r i e n c e                             |     E x p e r t i s e
                                                                |     
                MoonBat Software                                |     Automated spatial layout
@@ -54,12 +55,13 @@ j=/^[ ]{15}/;B=2;☼,♣,♠,♂,♦,☻,☺,♥,♀,♪,♫='',{},{},{},{},' ',
                graphic design                                  |     2007 my BS in Architecture
                web design                                      |     2003 an Alworth Memorial Scholarship
 
-";Z=B**(B*B);def k(≡,↕);≡.match?(↕);end;def n(z);z.strip;end;¶=ε(a);α,ß,Γ,π,Σ,σ,µ,τ,Φ,Ω,δ,∞,φ=q(¢(√,¶),☺)#2022 _//.
-q(a,"\n")[4..-1].each{|b|r,s=q(b,"|");if k(d,s)then ♦[s[d,1]]=[] if l(♦[s[d,1]]);♦[s[d,1]]<<{∞=>s[d,B]};end#22 _//.
+";Z=B**(B*B);def k(§,¢);§.match?(¢);end;def n(z);z.strip;end;¥=¶(a);α,ß,Γ,π,Σ,σ,µ,τ,Φ,Ω,δ,∞,φ,ε,≡,↕,‼=q(ƒ(√,¥),☺)#.
+begin;q(a,"\n")[4..-1].each{|b|r,s=q(b,"|");if k(d,s)then ♦[s[d,1]]=[] if l(♦[s[d,1]]);♦[s[d,1]]<<{∞=>s[d,B]};end#.
 if k(g,r)then ♫=nil;next;end;if l(♫) && k(j,r)then ♫=n(r);♣[♫]={};elsif k(d,r)then ♥={α=>r[d,1],τ=>☼,Σ=>[]}#22 _//.
 t,u=q(n(r[d,B]),☻+☺+☻);♥[µ]=t;♥[σ]=u;♣[♫]={} if l(♣[♫]);♣[♫][♥[α]]=♥;elsif k(e,r)then z=n(r);x=q(z,f)#/ © 2022 _//.
 ♣[♫][♥[α]][Σ]<<z;w=x[0];x[1..-1].each{|y|if !l(♂[y])then ♂[y][w]=♫;elsif y!=☼ then ♂[y]={};end}#//\\//\ © 2022 _//.
-♦[♥[α]]=[] if l(♦[♥[α]]);♦[♥[α]]<<{Φ=>n(r),Ω=>♥[µ],δ=>♥[τ],π=>♫,"in"=>♥[σ]};elsif !l(r);♣[♫][♥[α]][τ]+=n(r)+☻;end}#
-♦.keys.sort.reverse.each{|♥|x=♦[♥];≡,↕=q(♥,☺);if !l(≡)then ÷(☼,☻);if !l(↕)then ÷("from"+☻+≡+☻+"to"+☻+↕+☻+"I",☻)#//.
+♦[♥[α]]=[] if l(♦[♥[α]]);♦[♥[α]]<<{Φ=>n(r),Ω=>♥[µ],δ=>♥[τ],π=>♫,↕=>♥[σ]};elsif !l(r);♣[♫][♥[α]][τ]+=n(r)+☻;end}#//.
+♦.keys.sort.reverse.each{|♥|x=♦[♥];§,¢=q(♥,☺);if !l(§)then ÷(☼,☻);if !l(¢)then ÷("from"+☻+§+☻+"to"+☻+¢+☻+‼,☻)# _//.
 x.each{|y|÷(☺+☻+y.entries.select{|w,z|!l(z) && z!=☼}.map{|w,z| w+☻+z}.join(☻),☻);sleep(1.0/B)};÷(☼,☻)#/ © 2022 _//.
-else ÷("in"+☻+≡+☻+"I",☻);x.each{|y|÷(☺+☻+y.entries.map{|w,z|w+☻+z}.join(☻),☻)};end;end};#//\\//\\//\\// © 2022 _//.
+else ÷(↕+☻+§+☻+‼,☻);x.each{|y|÷(☺+☻+y.entries.map{|w,z|w+☻+z}.join(☻),☻)};end;end};rescue Interrupt=>e;÷(≡,☻);end#.
+÷(ε,☻);#//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\ © 2022 _//.
