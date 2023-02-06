@@ -1,9 +1,9 @@
 # run me in the terminal: curl -sSl https://raw.githubusercontent.com/andrewsalveson/resume/master/RESUME | ruby
-def ¶(a);¢,¥,§=122,{},Z*B;(§..¢).each{|₧|₧=₧.chr;¥[a.index(₧)]=₧};¥;end;def q(z,§);z.split(§);end;def ƒ(√,¥)#2 _//.
+def ¶(a);¢,¥,§=122,{},Z*B;(§..¢).each{|₧|₧=₧.chr;¥[a.index(₧)]=₧};¥;end;def q(z,§);z.split(§);end;def ƒ(√,¥)#3 _//.
 √.scan(/.{1,#{B}}/).map{|₧|¥[₧.to_i(B*Z)+1]}.join;end;def ≈(☻);puts(☻*(Z/B));end;def l(☻);☻.nil?;end;def ÷(z,☻)#//.
 ≈(☻);¥=(Z/B);q(z,☻).each{|b|¥+=b.size;q(b,'').each{|§|print(§);sleep(rand/Z)};print(☻);if ¥ > Z*(B*B)then ≈(☻);¥=0#
 end};puts();end;d=/^[ ]*([\d]{4}-?[^ ]*)[ ]*(.*)/;e=/^[ ]{15}/;f=/ (using|with|for|in|on|&|\/) |,'/;g=/^[ ]*$/#_//.
-j=/^[ ]{15}/;B=2;☼,♣,♠,♂,♦,☻,☺,♥,♀,♪,♫='',{},{},{},{},' ','-';"#//\\//\\//\\//\\//\\//\\//\\//\\//\\//\ © 2022 _//.
+j=/^[ ]{15}/;B=2;☼,♣,♠,♂,♦,☻,☺,♥,♀,♪,♫='',{},{},{},{},' ','-';"#//\\//\\//\\//\\//\\//\\//\\//\\//\\//\ © 2023 _//.
 
 
 
@@ -12,36 +12,40 @@ j=/^[ ]{15}/;B=2;☼,♣,♠,♂,♦,☻,☺,♥,♀,♪,♫='',{},{},{},{},' ',
 
 
 
-";√="2p2r2t2v7j9ga54l2v9c2r9o2v332ra52r2n2p2r2t2v2r33352ra57s7j2ta57n354l2vf42v4l2v2r4pa59o7j357n4l2v7j33a54l2v4"+
-"l9o2ra59g2r4p35a52r2n2r35994l2r9ga57n4p007na54p992p2p7j2t4l2v33csa52t2r352r2vf42r9ga54pk22v9o9o4pa54lav7n33"+
-"k2009s7j99007s7j2t009s7j992t004l2v9c2ra54p2r2r9c4p009o2vk22r009s7j9900cs2r4l004lav2r002v9g2r7na52v33a5ec";a="
+";√="2p2r2t2v9b9ga54l2v9c2r9o2v332ra52r2n2p2r2t2v2r33352ra5am9b2ta57m354l2vf42v4l2v2r4pa59o9b357m4l2v9b33a54l2v4"+
+"l9o2ra59g2r4p35a52r2n2r35994l2r9ga57m4p007ma54p992p2p9b2t4l2v337ka52t2r352r2vf42r9ga54pk22v9o9o4pa54l7l7m33"+
+"k2009s9b9900am9b2t009s9b992t004l2v9c2ra54p2r2r9c4p009o2vk22r009s9b99007k2r4l004l7l2r002v9g2r7ma52v33a5ec";a="
                                                                      
                E x p e r i e n c e                             |     E x p e r t i s e
                                                                |     
-               MoonBat Software                                |     Automated spatial layout
-2022-present   Founder - Duluth                                |     
-               indie game design                               |     Indie game design and development
+               Higharc                                         |     Automated spatial layout
+2022-present   Sr. Software Engineer - Duluth (remote)         |     
+               building model automation                       |     Indie game design and development
                                                                |     
-               Outer Labs                                      |     Full stack development
-2020-2022      Sr. Software Engineer - Duluth (remote)         |     
-               building layout automation                      |     Add-in and script development
+               MoonBat Software                                |     Full stack development
+2022-present   Founder - Duluth                                |     
+               indie game design                               |     Add-in and script development
                                                                |         Revit, SketchUp
-               WeWork                                          |     
-2018-2020      Software Engineer - NYC                         |     Deployment
-               spatial data management                         |         Docker(machine), Kubernetes
+               Outer Labs                                      |     
+2020-2022      Sr. Software Engineer - Duluth (remote)         |     Deployment
+               building layout automation                      |         Docker(machine), Kubernetes
                                                                |         Travis, CircleCI, Jenkins
-               Perkins+Will, Inc.                              |         Heroku, Azure, AWS
-2017-2018      Software Engineer - NYC                         |     
-               enterprise application development              |     Miscellaneous hackery
-2016-2017      Digital Practice Manager - NYC                  |         Electronics, Linux scripting
-2014-2016      Design Applications Manager - NYC               |     
-2013-2014      Design Applications Manager - Minneapolis       |     Other skills
-                                                               |         Graphic art
-               Neurotinker                                     |         Drawing instruction
-2014           Co-founder - Minneapolis                        |         Music composition
-               neuron simulation hardware                      |     
+               WeWork                                          |         Heroku, Azure, AWS
+2018-2020      Software Engineer - NYC                         |     
+               spatial data management                         |     Miscellaneous hackery
+                                                               |         Electronics, Linux scripting
+               Perkins+Will, Inc.                              |     
+2017-2018      Software Engineer - NYC                         |     Other skills
+               enterprise application development              |         Graphic art
+2016-2017      Digital Practice Manager - NYC                  |         Drawing instruction
+2014-2016      Design Applications Manager - NYC               |         Music composition
+2013-2014      Design Applications Manager - Minneapolis       |     
                                                                |     Obsolete languages
-               Various Firms (available upon request)          |         ActionScript (RIP), PureData
+               Neurotinker                                     |         ActionScript (RIP), PureData
+2014           Co-founder - Minneapolis                        |
+               neuron simulation hardware                      |
+                                                               |
+               Various Firms (available upon request)          |
 2010-2013      Intern Architect - Minneapolis & St. Paul       |
                architectural project work                      |
                                                                |
@@ -57,11 +61,11 @@ j=/^[ ]{15}/;B=2;☼,♣,♠,♂,♦,☻,☺,♥,♀,♪,♫='',{},{},{},{},' ',
 
 ";Z=B**(B*B);def k(§,¢);§.match?(¢);end;def n(z);z.strip;end;¥=¶(a);α,ß,Γ,π,Σ,σ,µ,τ,Φ,Ω,δ,∞,φ,ε,≡,↕,‼=q(ƒ(√,¥),☺)#.
 begin;q(a,"\n")[4..-1].each{|b|r,s=q(b,"|");if k(d,s)then ♦[s[d,1]]=[] if l(♦[s[d,1]]);♦[s[d,1]]<<{∞=>s[d,B]};end#.
-if k(g,r)then ♫=nil;next;end;if l(♫) && k(j,r)then ♫=n(r);♣[♫]={};elsif k(d,r)then ♥={α=>r[d,1],τ=>☼,Σ=>[]}#22 _//.
-t,u=q(n(r[d,B]),☻+☺+☻);♥[µ]=t;♥[σ]=u;♣[♫]={} if l(♣[♫]);♣[♫][♥[α]]=♥;elsif k(e,r)then z=n(r);x=q(z,f)#/ © 2022 _//.
-♣[♫][♥[α]][Σ]<<z;w=x[0];x[1..-1].each{|y|if !l(♂[y])then ♂[y][w]=♫;elsif y!=☼ then ♂[y]={};end}#//\\//\ © 2022 _//.
+if k(g,r)then ♫=nil;next;end;if l(♫) && k(j,r)then ♫=n(r);♣[♫]={};elsif k(d,r)then ♥={α=>r[d,1],τ=>☼,Σ=>[]}#23 _//.
+t,u=q(n(r[d,B]),☻+☺+☻);♥[µ]=t;♥[σ]=u;♣[♫]={} if l(♣[♫]);♣[♫][♥[α]]=♥;elsif k(e,r)then z=n(r);x=q(z,f)#/ © 2023 _//.
+♣[♫][♥[α]][Σ]<<z;w=x[0];x[1..-1].each{|y|if !l(♂[y])then ♂[y][w]=♫;elsif y!=☼ then ♂[y]={};end}#//\\//\ © 2023 _//.
 ♦[♥[α]]=[] if l(♦[♥[α]]);♦[♥[α]]<<{Φ=>n(r),Ω=>♥[µ],δ=>♥[τ],π=>♫,↕=>♥[σ]};elsif !l(r);♣[♫][♥[α]][τ]+=n(r)+☻;end}#//.
 ♦.keys.sort.reverse.each{|♥|x=♦[♥];§,¢=q(♥,☺);if !l(§)then ÷(☼,☻);if !l(¢)then ÷("from"+☻+§+☻+"to"+☻+¢+☻+‼,☻)# _//.
-x.each{|y|÷(☺+☻+y.entries.select{|w,z|!l(z) && z!=☼}.map{|w,z| w+☻+z}.join(☻),☻);sleep(1.0/B)};÷(☼,☻)#/ © 2022 _//.
+x.each{|y|÷(☺+☻+y.entries.select{|w,z|!l(z) && z!=☼}.map{|w,z| w+☻+z}.join(☻),☻);sleep(1.0/B)};÷(☼,☻)#/ © 2023 _//.
 else ÷(↕+☻+§+☻+‼,☻);x.each{|y|÷(☺+☻+y.entries.map{|w,z|w+☻+z}.join(☻),☻)};end;end};rescue Interrupt=>e;÷(≡,☻);end#.
-÷(ε,☻);#//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\ © 2022 _//.
+÷(ε,☻);#//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\ © 2023 _//.
