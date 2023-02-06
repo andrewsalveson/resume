@@ -1,9 +1,9 @@
-# run me in the terminal: curl -sSl https://raw.githubusercontent.com/andrewsalveson/resume/master/RESUME | ruby
-def ¶(a);¢,¥,§=122,{},Z*B;(§..¢).each{|₧|₧=₧.chr;¥[a.index(₧)]=₧};¥;end;def q(z,§);z.split(§);end;def ƒ(√,¥)#3 _//.
-√.scan(/.{1,#{B}}/).map{|₧|¥[₧.to_i(B*Z)+1]}.join;end;def ≈(☻);puts(☻*(Z/B));end;def l(☻);☻.nil?;end;def ÷(z,☻)#//.
-≈(☻);¥=(Z/B);q(z,☻).each{|b|¥+=b.size;q(b,'').each{|§|print(§);sleep(rand/Z)};print(☻);if ¥ > Z*(B*B)then ≈(☻);¥=0#
-end};puts();end;d=/^[ ]*([\d]{4}-?[^ ]*)[ ]*(.*)/;e=/^[ ]{15}/;f=/ (using|with|for|in|on|&|\/) |,'/;g=/^[ ]*$/#_//.
-j=/^[ ]{15}/;B=2;☼,♣,♠,♂,♦,☻,☺,♥,♀,♪,♫='',{},{},{},{},' ','-';"#//\\//\\//\\//\\//\\//\\//\\//\\//\\//\ © 2023 _//.
+#### run me in the terminal: curl -sSl https://raw.githubusercontent.com/andrewsalveson/resume/master/RESUME | ruby
+def ↑(÷);‼,§,↓=122,{},Z*B;(↓..‼).each{|¢|¢=¢.chr;§[÷.index(¢)]=¢};§;end;A=' ';def k(y,↓);y.split(↓);end;def £(⌡,§)#
+⌡.scan(/.{1,#{B}}/).map{|¢|§[¢.to_i(B*Z)+1]}.join;end;def ⌠(☻);puts(☻*(Z/B));end;def g(☻);☻.nil?;end;def l(y)# _//.
+y.entries;end;def ƒ(y,☻=A);⌠(☻);§=(Z/B);k(y,☻).each{|≈|§+=≈.size;k(≈,'').each{|↓|print(↓);sleep(rand/Z)};print(☻)#.
+if § > Z*(B*B)then ⌠(☻);§=0;end};puts();end;a=/^[ ]*([\d]{4}-?[^ ]*)[ ]*(.*)/;b=/^[ ]{15}/;def n(y,☺=A);y.join(☺)#.
+end;c=/ (using|with|for|in|on|&|\/) |,'/;d=/^[ ]*$/;e=/^[ ]{15}/;B=2;☼,♣,♠,♂,♦,☻,☺,♥,♀,♪,♫='',{},{},{},{},A,'-';"#.
 
 
 
@@ -12,45 +12,45 @@ j=/^[ ]{15}/;B=2;☼,♣,♠,♂,♦,☻,☺,♥,♀,♪,♫='',{},{},{},{},' ',
 
 
 
-";√="2p2r2t2v9b9ga54l2v9c2r9o2v332ra52r2n2p2r2t2v2r33352ra5am9b2ta57m354l2vf42v4l2v2r4pa59o9b357m4l2v9b33a54l2v4"+
+";⌡="2p2r2t2v9b9ga54l2v9c2r9o2v332ra52r2n2p2r2t2v2r33352ra5am9b2ta57m354l2vf42v4l2v2r4pa59o9b357m4l2v9b33a54l2v4"+
 "l9o2ra59g2r4p35a52r2n2r35994l2r9ga57m4p007ma54p992p2p9b2t4l2v337ka52t2r352r2vf42r9ga54pk22v9o9o4pa54l7l7m33"+
-"k2009s9b9900am9b2t009s9b992t004l2v9c2ra54p2r2r9c4p009o2vk22r009s9b99007k2r4l004l7l2r002v9g2r7ma52v33a5ec";a="
+"k2009s9b9900am9b2t009s9b992t004l2v9c2ra54p2r2r9c4p009o2vk22r009s9b99007k2r4l004l7l2r002v9g2r7ma52v33a5ec";÷="
                                                                      
                E x p e r i e n c e                             |     E x p e r t i s e
                                                                |     
                Higharc                                         |     Automated spatial layout
-2022-present   Sr. Software Engineer - Duluth (remote)         |     
+2022-present   Sr. Software Engineer - Durham, NC (remote)     |     
                building model automation                       |     Indie game design and development
                                                                |     
                MoonBat Software                                |     Full stack development
-2022-present   Founder - Duluth                                |     
+2022-present   Founder - Duluth, MN                            |     
                indie game design                               |     Add-in and script development
                                                                |         Revit, SketchUp
                Outer Labs                                      |     
-2020-2022      Sr. Software Engineer - Duluth (remote)         |     Deployment
+2020-2022      Sr. Software Engineer - Irvine, CA (remote)     |     Deployment
                building layout automation                      |         Docker(machine), Kubernetes
                                                                |         Travis, CircleCI, Jenkins
                WeWork                                          |         Heroku, Azure, AWS
-2018-2020      Software Engineer - NYC                         |     
+2018-2020      Software Engineer - New York City, NY           |     
                spatial data management                         |     Miscellaneous hackery
                                                                |         Electronics, Linux scripting
                Perkins+Will, Inc.                              |     
-2017-2018      Software Engineer - NYC                         |     Other skills
+2017-2018      Software Engineer - New York City, NY           |     Other skills
                enterprise application development              |         Graphic art
-2016-2017      Digital Practice Manager - NYC                  |         Drawing instruction
-2014-2016      Design Applications Manager - NYC               |         Music composition
-2013-2014      Design Applications Manager - Minneapolis       |     
+2016-2017      Digital Practice Manager - New York City, NY    |         Drawing instruction
+2014-2016      Design Applications Manager - New York City, NY |         Music composition
+2013-2014      Design Applications Manager - Minneapolis, MN   |     
                                                                |     Obsolete languages
                Neurotinker                                     |         ActionScript (RIP), PureData
-2014           Co-founder - Minneapolis                        |
+2014           Co-founder - Minneapolis, MN                    |
                neuron simulation hardware                      |
                                                                |
                Various Firms (available upon request)          |
-2010-2013      Intern Architect - Minneapolis & St. Paul       |
+2010-2013      Intern Architect - Minneapolis & St. Paul, MN   |
                architectural project work                      |
                                                                |
                The University of Minnesota                     |
-2009-2011      Graduate Instructor - Minneapolis               |
+2009-2011      Graduate Instructor - Minneapolis, MN           |
                drawing and design instruction                  |     E d u c a c t i o n  &  H o n o r s
                                                                |     
                Various Clients (available upon request)        |     2018 an Innovation Incubator Grant 
@@ -59,13 +59,12 @@ j=/^[ ]{15}/;B=2;☼,♣,♠,♂,♦,☻,☺,♥,♀,♪,♫='',{},{},{},{},' ',
                graphic design                                  |     2007 my BS in Architecture
                web design                                      |     2003 an Alworth Memorial Scholarship
 
-";Z=B**(B*B);def k(§,¢);§.match?(¢);end;def n(z);z.strip;end;¥=¶(a);α,ß,Γ,π,Σ,σ,µ,τ,Φ,Ω,δ,∞,φ,ε,≡,↕,‼=q(ƒ(√,¥),☺)#.
-begin;q(a,"\n")[4..-1].each{|b|r,s=q(b,"|");if k(d,s)then ♦[s[d,1]]=[] if l(♦[s[d,1]]);♦[s[d,1]]<<{∞=>s[d,B]};end#.
-if k(g,r)then ♫=nil;next;end;if l(♫) && k(j,r)then ♫=n(r);♣[♫]={};elsif k(d,r)then ♥={α=>r[d,1],τ=>☼,Σ=>[]}#23 _//.
-t,u=q(n(r[d,B]),☻+☺+☻);♥[µ]=t;♥[σ]=u;♣[♫]={} if l(♣[♫]);♣[♫][♥[α]]=♥;elsif k(e,r)then z=n(r);x=q(z,f)#/ © 2023 _//.
-♣[♫][♥[α]][Σ]<<z;w=x[0];x[1..-1].each{|y|if !l(♂[y])then ♂[y][w]=♫;elsif y!=☼ then ♂[y]={};end}#//\\//\ © 2023 _//.
-♦[♥[α]]=[] if l(♦[♥[α]]);♦[♥[α]]<<{Φ=>n(r),Ω=>♥[µ],δ=>♥[τ],π=>♫,↕=>♥[σ]};elsif !l(r);♣[♫][♥[α]][τ]+=n(r)+☻;end}#//.
-♦.keys.sort.reverse.each{|♥|x=♦[♥];§,¢=q(♥,☺);if !l(§)then ÷(☼,☻);if !l(¢)then ÷("from"+☻+§+☻+"to"+☻+¢+☻+‼,☻)# _//.
-x.each{|y|÷(☺+☻+y.entries.select{|w,z|!l(z) && z!=☼}.map{|w,z| w+☻+z}.join(☻),☻);sleep(1.0/B)};÷(☼,☻)#/ © 2023 _//.
-else ÷(↕+☻+§+☻+‼,☻);x.each{|y|÷(☺+☻+y.entries.map{|w,z|w+☻+z}.join(☻),☻)};end;end};rescue Interrupt=>e;÷(≡,☻);end#.
-÷(ε,☻);#//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\ © 2023 _//.
+";Z=B**(B*B);def f(↓,‼);↓.match?(‼);end;def j(y);y.strip;end;§=↑(÷);α,ß,Γ,π,Σ,σ,µ,τ,Φ,Ω,δ,∞,φ,ε,≡,↕,↨=k(£(⌡,§),☺)#.
+begin;k(÷,"\n")[4..-1].each{|≈|q,r=k(≈,"|");if f(a,r)then ♦[r[a,1]]=[] if g(♦[r[a,1]]);♦[r[a,1]]<<{∞=>r[a,B]};end#.
+if f(d,q)then ♫=nil;next;end;if g(♫) && f(e,q)then ♫=j(q);♣[♫]={};elsif f(a,q)then ♥={α=>q[a,1],τ=>☼,Σ=>[]}#23 _//.
+s,t=k(j(q[a,B]),☻+☺+☻);♥[µ]=s;♥[σ]=t;♣[♫]={} if g(♣[♫]);♣[♫][♥[α]]=♥;elsif f(b,q)then y=j(q);w=k(y,c)#/ © 2023 _//.
+♣[♫][♥[α]][Σ]<<y;v=w[0];w[1..-1].each{|x|if !g(♂[x])then ♂[x][v]=♫;elsif x!=☼ then ♂[x]={};end}#//\\//\ © 2023 _//.
+♦[♥[α]]=[] if g(♦[♥[α]]);♦[♥[α]]<<{Φ=>j(q),Ω=>♥[µ],δ=>♥[τ],π=>♫,↕=>♥[σ]};elsif !g(q);♣[♫][♥[α]][τ]+=j(q)+☻;end}#//.
+♦.keys.sort.reverse.each{|♥|w=♦[♥];↓,‼=k(♥,☺);if !g(↓)then ƒ(☼);if !g(‼)then ƒ(n(["from",↓,"to",‼,↨]))# © 2023 _//.
+w.each{|x|ƒ(☺+☻+n(l(x).select{|v,y|!g(y) && y!=☼}.map{|v,y| v+☻+y}));sleep(1.0/B)};ƒ(☼);else ƒ(↕+☻+↓+☻+↨)#2023 _//.
+w.each{|x|ƒ(☺+☻+n(l(x).map{|v,y|v+☻+y}))};end;end};rescue Interrupt=>e;ƒ(≡);end;ƒ(ε);#//\\//\\//\\//\\/ © 2023 _//.
