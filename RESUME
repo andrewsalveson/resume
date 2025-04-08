@@ -23,7 +23,7 @@ end;c=/ (using|with|for|in|on|&|\/) |,'/;d=/^[ ]*$/;e=/^[ ]{15}/;B=2;☼,♣,♠
                building model automation                       |     Indie game design and development
                                                                |     
                MoonBat Software                                |     Full stack development
-2022-present   Founder - Duluth, MN                            |     
+2022-2024      Founder - Duluth, MN                            |     
                indie game design                               |     Add-in and script development
                                                                |         Revit, SketchUp
                Outer Labs                                      |     
@@ -39,10 +39,10 @@ end;c=/ (using|with|for|in|on|&|\/) |,'/;d=/^[ ]*$/;e=/^[ ]{15}/;B=2;☼,♣,♠
                enterprise application development              |         Graphic art
 2016-2017      Digital Practice Manager - New York City, NY    |         Drawing instruction
 2014-2016      Design Applications Manager - New York City, NY |         Music composition
-2013-2014      Design Applications Manager - Minneapolis, MN   |     
-                                                               |     Obsolete languages
-               Neurotinker                                     |         ActionScript (RIP), PureData
-2014           Co-founder - Minneapolis, MN                    |
+2013-2014      Design Applications Manager - Minneapolis, MN   |         Writing fiction
+                                                               |     
+               Neurotinker                                     |     Obsolete languages
+2014           Co-founder - Minneapolis, MN                    |         ActionScript (RIP), PureData
                neuron simulation hardware                      |
                                                                |
                Various Firms (available upon request)          |
@@ -61,10 +61,10 @@ end;c=/ (using|with|for|in|on|&|\/) |,'/;d=/^[ ]*$/;e=/^[ ]{15}/;B=2;☼,♣,♠
 
 ";Z=B**(B*B);def f(↓,‼);↓.match?(‼);end;def j(y);y.strip;end;§=↑(÷);α,ß,Γ,π,Σ,σ,µ,τ,Φ,Ω,δ,∞,φ,ε,≡,↕,↨=k(£(⌡,§),☺)#.
 begin;k(÷,"\n")[4..-1].each{|≈|q,r=k(≈,"|");if f(a,r)then ♦[r[a,1]]=[] if g(♦[r[a,1]]);♦[r[a,1]]<<{∞=>r[a,B]};end#.
-if f(d,q)then ♫=nil;next;end;if g(♫) && f(e,q)then ♫=j(q);♣[♫]={};elsif f(a,q)then ♥={α=>q[a,1],τ=>☼,Σ=>[]}#23 _//.
-s,t=k(j(q[a,B]),☻+☺+☻);♥[µ]=s;♥[σ]=t;♣[♫]={} if g(♣[♫]);♣[♫][♥[α]]=♥;elsif f(b,q)then y=j(q);w=k(y,c)#/ © 2023 _//.
-♣[♫][♥[α]][Σ]<<y;v=w[0];w[1..-1].each{|x|if !g(♂[x])then ♂[x][v]=♫;elsif x!=☼ then ♂[x]={};end}#//\\//\ © 2023 _//.
+if f(d,q)then ♫=nil;next;end;if g(♫) && f(e,q)then ♫=j(q);♣[♫]={};elsif f(a,q)then ♥={α=>q[a,1],τ=>☼,Σ=>[]}#25 _//.
+s,t=k(j(q[a,B]),☻+☺+☻);♥[µ]=s;♥[σ]=t;♣[♫]={} if g(♣[♫]);♣[♫][♥[α]]=♥;elsif f(b,q)then y=j(q);w=k(y,c)#/ © 2025 _//.
+♣[♫][♥[α]][Σ]<<y;v=w[0];w[1..-1].each{|x|if !g(♂[x])then ♂[x][v]=♫;elsif x!=☼ then ♂[x]={};end}#//\\//\ © 2025 _//.
 ♦[♥[α]]=[] if g(♦[♥[α]]);♦[♥[α]]<<{Φ=>j(q),Ω=>♥[µ],δ=>♥[τ],π=>♫,↕=>♥[σ]};elsif !g(q);♣[♫][♥[α]][τ]+=j(q)+☻;end}#//.
-♦.keys.sort.reverse.each{|♥|w=♦[♥];↓,‼=k(♥,☺);if !g(↓)then ƒ(☼);if !g(‼)then ƒ(n(["from",↓,"to",‼,↨]))# © 2023 _//.
-w.each{|x|ƒ(☺+☻+n(l(x).select{|v,y|!g(y) && y!=☼}.map{|v,y| v+☻+y}));sleep(1.0/B)};ƒ(☼);else ƒ(↕+☻+↓+☻+↨)#2023 _//.
-w.each{|x|ƒ(☺+☻+n(l(x).map{|v,y|v+☻+y}))};end;end};rescue Interrupt=>e;ƒ(≡);end;ƒ(ε);#//\\//\\//\\//\\/ © 2023 _//.
+♦.keys.sort.reverse.each{|♥|w=♦[♥];↓,‼=k(♥,☺);if !g(↓)then ƒ(☼);if !g(‼)then ƒ(n(["from",↓,"to",‼,↨]))# © 2025 _//.
+w.each{|x|ƒ(☺+☻+n(l(x).select{|v,y|!g(y) && y!=☼}.map{|v,y| v+☻+y}));sleep(1.0/B)};ƒ(☼);else ƒ(↕+☻+↓+☻+↨)#2025 _//.
+w.each{|x|ƒ(☺+☻+n(l(x).map{|v,y|v+☻+y}))};end;end};rescue Interrupt=>e;ƒ(≡);end;ƒ(ε);#//\\//\\//\\//\\/ © 2025 _//.
